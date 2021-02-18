@@ -6,5 +6,6 @@
         <file>AndroidNative/VideoPicker.qml</file>
         <file>AndroidNative/Util.qml</file>
         <file>AndroidNative/Share.qml</file>
+        <file>AndroidNative/PaymentUPI.qml</file>
     </qresource>
 </RCC>
